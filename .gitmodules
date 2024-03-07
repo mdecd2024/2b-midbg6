@@ -1,9 +1,21 @@
+<<<<<<< HEAD
+[submodule "40971140"]
+	path = 40971140
+	url = https://github.com/40971140/cd2024.git
+=======
 [submodule "40971219"]
 	path = 40971219
 	url = https://github.com/40971219/cd2024
+[submodule "40923150"]
+	path = 40923150
+	url = https://github.com/40923150/cd2024.git
 [submodule "40923140"]
 	path = 40923140
 	url = https://github.com/40923140/cd2024.git
+<<<<<<< HEAD
 [submodule "40971134"]
 	path = 40971134
 	url = https://github.com/40971134/cd2024.git
+=======
+>>>>>>> origin/main
+>>>>>>> a79a207c1ad6827a4f04c8038e96f7792389e825
