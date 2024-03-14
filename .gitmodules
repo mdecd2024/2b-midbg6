@@ -3,7 +3,7 @@
 	url = https://github.com/40971140/cd2024.git
 [submodule "40971219"]
 	path = 40971219
-	url = https://github.com/40971219/cd2024
+	url = https://github.com/40971219/cd2024.git
 [submodule "40923150"]
 	path = 40923150
 	url = https://github.com/40923150/cd2024.git
@@ -13,3 +13,12 @@
 [submodule "40971134"]
 	path = 40971134
 	url = https://github.com/40971134/cd2024.git
+[submodule "40971220"]
+	path = 40971220
+	url = https://github.com/40971220/cd2024.git
+[submodule "40923149"]
+	path = 40923149
+	url = https://github.com/40923149r/cd2024.git
+[submodule "40923152"]
+	path = 40923152
+	url = https://github.com/40923152/cd2024.git
