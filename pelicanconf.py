@@ -51,7 +51,7 @@ PATH = combined_paths
 
 #IGNORE_FILES = ['*']
 
-#OUTPUT_PATH = 'blog'
+OUTPUT_PATH = 'blog'
 
 TIMEZONE = 'Asia/Taipei'
 
