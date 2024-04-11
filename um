@@ -1,0 +1,33 @@
+#!/bin/bash
+
+cd 40923140
+git pull origin main
+cd ..
+
+cd 40923149
+git pull origin main
+cd ..
+
+cd 40923150
+git pull origin main
+cd ..
+
+cd 40923152
+git pull origin main
+cd ..
+
+cd 40971134
+git pull origin main
+cd ..
+
+cd 40971140
+git pull origin main
+cd ..
+
+cd 40971219
+git pull origin main
+cd ..
+
+cd 40971220
+git pull origin main
+cd ..
