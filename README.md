@@ -1,3 +1,5 @@
+# 2b-midbg6
+https://mdecd2024.github.io/2b-midbg6/content/index.html
 # cmsimde_site
 
 利用 init_replit 指令安裝所需 Python 模組
