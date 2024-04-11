@@ -1,6 +1,6 @@
 \chapter{THE ODOO SOFTWARE} 
 \pagenumbering{arabic} %設定頁號阿拉伯數字
-\setcounter{page}{26}  %設定頁數
+\setcounter{page}{32}  %設定頁數
 \begin{center}
 \fontsize{18}{16}\selectfont \textbf{ODOO 軟體}\\
 \end{center}
@@ -27,7 +27,7 @@ was originated as an open-source ERP software as oppose to a PLM or MES software
 \fontsize{12}{2.5pt}\sectionef 
 {在本論文的範圍內，目標是利用該軟體進行管理前面提到的虛構公司，並就其有效性得出結論PLM 和 MES 的整合已經存在於該系統中。}\\[15pt]
 
-\section{How it works 如何運作 }
+\subsection{How it works 如何運作 }
 \fontsize{12}{2.5pt}\sectionef 
  {The software can be installed in most x86 computers and it supports several operating
 systems including windows and all the main Linux distributions.}\\[1pt]
@@ -104,7 +104,7 @@ employees.}\\[1pt]
 \end{center}
 \end{figure}
 
-\section{Odoo’s view on manufacturing: Odoo 對製造業的看法：}
+\subsection{Odoo’s view on manufacturing: Odoo 對製造業的看法：}
 
 
 \fontsize{12}{2.5pt}\sectionef 
@@ -239,7 +239,7 @@ Odoo 應用程式的焦點稱為 PLM。 所述應用程式能夠達到什麼長�
 執行是下一節的主題。}
 \\[15pt]
 
-\section{The information structure of Odoo Odoo的資訊結構 }
+\subsection{The information structure of Odoo Odoo的資訊結構 }
 
 \fontsize{12}{2.5pt}\sectionef 
  {Each module focuses in the manipulation of specific object-oriented classes that hold
@@ -310,7 +310,7 @@ Odoo 製造流程的專案類別，因為它的基本了解有助於
 
 
 
-\section{Product Item 產品項目 }
+\subsubsection{Product Item 產品項目 }
 
 \fontsize{12}{2.5pt}\sectionef 
  {Every material, component or product is characterized by a PRODUCT type class that is
@@ -340,7 +340,7 @@ class since it is both the source and the goal of manufacturing.
 \end{figure}
 
 
-\section{Operation item class and workcenter item class 操作項目類和工作中心項目類}
+\subsubsection{Operation item class and workcenter item class 操作項目類和工作中心項目類}
 
 \fontsize{12}{2.5pt}\sectionef 
  {The operation item is representative of a manufacturing operation that is required to
@@ -372,7 +372,7 @@ workcenter 最終在 Odoo 中用作時間/設備管理工具
 \end{figure}
 
 
-\section{The Bill of Materials item class 物料清單項目類別 }
+\subsubsection{The Bill of Materials item class 物料清單項目類別 }
 
 \fontsize{12}{2.5pt}\sectionef 
  {The Bill of Materials is a list of components necessary to build a product. In Odoo,
@@ -401,7 +401,7 @@ which these are utilized.}\\[1pt]
 \end{center}
 \end{figure}
 
-\section{Manufacturing order item class and work order item class  製造訂單項目類和工作訂單項目類 }
+\subsubsection{Manufacturing order item class and work order item class  製造訂單項目類和工作訂單項目類 }
 
 \fontsize{12}{2.5pt}\sectionef 
  {Along the standard items that are considered within Odoo, orders are the ones that
@@ -456,7 +456,7 @@ MES很在意。}\\[15pt]
 \end{figure}
 
 
-\section{ The engineering change order 工程變更單 }
+\subsubsection{ The engineering change order 工程變更單 }
 
 \fontsize{12}{2.5pt}\sectionef 
  {As explained in the beginning of chapter 2 the Odoo management software considers
