@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2b6協同產品設計實習 - w5</title><link href="./" rel="alternate"></link><link href="./feeds/w5.atom.xml" rel="self"></link><id>./</id><updated>2024-04-18T05:55:03+08:00</updated><entry><title>W5 教學影片整理</title><link href="./2024-Spring-40971219-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T14:00:00+08:00</published><updated>2024-04-18T05:55:03+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-03-21:./2024-Spring-40971219-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程上字幕&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2b6協同產品設計實習 - w5</title><link href="./" rel="alternate"></link><link href="./feeds/w5.atom.xml" rel="self"></link><id>./</id><updated>2024-05-06T15:32:01+08:00</updated><entry><title>W5 教學影片整理</title><link href="./2024-Spring-40971219-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T14:00:00+08:00</published><updated>2024-05-06T15:32:01+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-03-21:./2024-Spring-40971219-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程上字幕&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同產品設計實習課程上字幕&lt;/p&gt;
 
 
@@ -22,7 +22,7 @@
 &lt;li&gt;利用codespaces直接建造資料夾並上傳檔案&lt;/li&gt;
 &lt;li&gt;利用github上的actions功能直接編譯成pdf，並把結果發布在發布區&lt;/li&gt;
 &lt;li&gt;在ignore內新增能夠移出不必要檔案的功能&lt;/li&gt;
-&lt;/ul&gt;</content><category term="w5"></category><category term="上字幕"></category></entry><entry><title>40971134_W5影片上字幕</title><link href="./2024-Spring-40971134-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T11:00:00+08:00</published><updated>2024-04-18T05:55:03+08:00</updated><author><name>40971134</name></author><id>tag:None,2024-03-21:./2024-Spring-40971134-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;W5 教學影片上字幕&lt;/p&gt;
+&lt;/ul&gt;</content><category term="w5"></category><category term="上字幕"></category></entry><entry><title>40971134_W5影片上字幕</title><link href="./2024-Spring-40971134-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T11:00:00+08:00</published><updated>2024-05-06T15:32:01+08:00</updated><author><name>40971134</name></author><id>tag:None,2024-03-21:./2024-Spring-40971134-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;W5 教學影片上字幕&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W5 教學影片上字幕&lt;/p&gt;
 
 
@@ -47,7 +47,7 @@
 &lt;li&gt;要編輯Token的話，要更換目錄到倉儲底下的git&lt;/li&gt;
 &lt;li&gt;使用vi config編輯檔案的時候，用K往上、J往下、H往左、L往右&lt;/li&gt;
 &lt;li&gt;按ESC跳出插入模組，然後按帽號進入命令模式&lt;/li&gt;
-&lt;/ul&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>W5</title><link href="./2024-Spring-40971220-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T11:00:00+08:00</published><updated>2024-04-18T05:55:03+08:00</updated><author><name>40971220</name></author><id>tag:None,2024-03-21:./2024-Spring-40971220-w5-blog-tutorial.html</id><content type="html">&lt;p&gt;使用miktex程式，將老師前幾周上課的影片加上字幕
+&lt;/ul&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>W5</title><link href="./2024-Spring-40971220-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T11:00:00+08:00</published><updated>2024-05-06T15:32:01+08:00</updated><author><name>40971220</name></author><id>tag:None,2024-03-21:./2024-Spring-40971220-w5-blog-tutorial.html</id><content type="html">&lt;p&gt;使用miktex程式，將老師前幾周上課的影片加上字幕
 https://www.youtube.com/watch?v=boyHCAmWpKs&amp;amp;ab_channel=%E5%82%85%E6%9F%8F%E7%9A%93
 https://www.youtube.com/watch?v=lQ6iFAeSWJM&amp;amp;ab_channel=%E5%82%85%E6%9F%8F%E7%9A%93&lt;/p&gt;
 </content><category term="w5"></category><category term="統整網誌"></category></entry></feed>
