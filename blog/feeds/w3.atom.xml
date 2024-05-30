@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2b6協同產品設計實習 - w3</title><link href="./" rel="alternate"></link><link href="./feeds/w3.atom.xml" rel="self"></link><id>./</id><updated>2024-05-06T15:32:01+08:00</updated><entry><title>W3 github倉儲維護</title><link href="./2024-Spring-40971219-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T14:00:00+08:00</published><updated>2024-05-06T15:32:01+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-03-07:./2024-Spring-40971219-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程期中報告方式&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2b6協同產品設計實習 - w3</title><link href="./" rel="alternate"></link><link href="./feeds/w3.atom.xml" rel="self"></link><id>./</id><updated>2024-05-30T05:35:05+08:00</updated><entry><title>W3 github倉儲維護</title><link href="./2024-Spring-40971219-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T14:00:00+08:00</published><updated>2024-05-30T05:35:05+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-03-07:./2024-Spring-40971219-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程期中報告方式&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同產品設計實習課程期中報告方式&lt;/p&gt;
 
 
@@ -7,7 +7,7 @@
 &lt;p&gt;繼上週的以codespaces維護外，還有以gitpod的方式維護，因為codespaces每月有固定使用量，若使用完畢則須要有其他方式維護&lt;/p&gt;
 &lt;h1&gt;w3 Latex學習與編譯&lt;/h1&gt;
 &lt;p&gt;利用老師給的latex範本，進行latex的編譯方式學習。&lt;/p&gt;
-&lt;p&gt;在下載的可攜套件中，需要在啟動路徑上，加入編譯latex的指令，使得能夠利用可攜進行latex的編譯&lt;/p&gt;</content><category term="w3"></category><category term="latex"></category></entry><entry><title>40971134_W3維護分組倉儲</title><link href="./2024-Spring-40971134-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-05-06T15:32:01+08:00</updated><author><name>40971134</name></author><id>tag:None,2024-03-07:./2024-Spring-40971134-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;W3 期中報告方式&lt;/p&gt;
+&lt;p&gt;在下載的可攜套件中，需要在啟動路徑上，加入編譯latex的指令，使得能夠利用可攜進行latex的編譯&lt;/p&gt;</content><category term="w3"></category><category term="latex"></category></entry><entry><title>40971134_W3維護分組倉儲</title><link href="./2024-Spring-40971134-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-05-30T05:35:05+08:00</updated><author><name>40971134</name></author><id>tag:None,2024-03-07:./2024-Spring-40971134-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;W3 期中報告方式&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W3 期中報告方式&lt;/p&gt;
 
 
@@ -15,5 +15,12 @@
 &lt;p&gt;將組員的個人倉儲納入分組倉儲成為子模組&lt;/p&gt;
 &lt;p&gt;學習在Replit維護分組倉儲&lt;/p&gt;
 &lt;p&gt;分配各組員製作英翻中報告的部分&lt;/p&gt;
-&lt;p&gt;下載並學習使用LaTeX製作報告&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>W3</title><link href="./2024-Spring-40971220-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-05-06T15:32:01+08:00</updated><author><name>40971220</name></author><id>tag:None,2024-03-07:./2024-Spring-40971220-w3-blog-tutorial.html</id><content type="html">&lt;p&gt;使用Latex來與小組成員協同翻譯英文報告。分配段落&lt;/p&gt;
+&lt;p&gt;下載並學習使用LaTeX製作報告&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>w3倉儲維護</title><link href="./2024-Spring-40971140-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-05-30T05:35:05+08:00</updated><author><name>40971140</name></author><id>tag:None,2024-03-07:./2024-Spring-40971140-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同設計w3期中報告&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;協同設計w3期中報告&lt;/p&gt;
+
+
+&lt;h1&gt;Replit維護倉儲&lt;/h1&gt;
+&lt;p&gt;學習利用Replit維護倉儲&lt;/p&gt;
+&lt;h1&gt;期中報告&lt;/h1&gt;
+&lt;p&gt;分配期中報告工作,使用LaTex製作&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>W3</title><link href="./2024-Spring-40971220-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-05-30T05:35:05+08:00</updated><author><name>40971220</name></author><id>tag:None,2024-03-07:./2024-Spring-40971220-w3-blog-tutorial.html</id><content type="html">&lt;p&gt;使用Latex來與小組成員協同翻譯英文報告。分配段落&lt;/p&gt;
 </content><category term="w3"></category><category term="分配Latex翻譯段落"></category></entry></feed>
