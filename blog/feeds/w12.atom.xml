@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2b6協同產品設計實習 - w12</title><link href="./" rel="alternate"></link><link href="./feeds/w12.atom.xml" rel="self"></link><id>./</id><updated>2024-06-14T03:30:13+08:00</updated><entry><title>W12</title><link href="./2024-Spring-40971219-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-09T14:00:00+08:00</published><updated>2024-06-14T03:30:13+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-05-09:./2024-Spring-40971219-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習 任務部分二&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;協同產品設計實習 任務部分二&lt;/p&gt;
+
+
+&lt;h1&gt;任務一&lt;/h1&gt;
+&lt;p&gt;將所需零件繪製，並組立，參考檔案內容以nxopen的方式繪製及組立&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/40971219_nfu_edu_tw/EZ3ihoGp2pdLi8QfL_4KUFQBdHj1WidnM-CkrtuGK1WVTg?e=9WOn23"&gt;NXopen組合&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/40971219_nfu_edu_tw/Ee3TNaY4XexHlo6jqezmi98BggYRTRZcLjXDe9WmKKAqzQ?e=tU0599"&gt;NXopen零件&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;任務二&lt;/h1&gt;
+&lt;p&gt;將小組倉儲合併到評分倉儲&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/mdecd2024/2bstud-2bsite"&gt;2b評分倉儲&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;任務三&lt;/h1&gt;
+&lt;p&gt;足球機器人網際場景模擬，將過往課程的資料下載並操作&lt;/p&gt;</content><category term="w12"></category><category term="Task2"></category></entry><entry><title>40971134_W12實習課程任務</title><link href="./2024-Spring-40971134-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-09T11:00:00+08:00</published><updated>2024-06-14T03:30:13+08:00</updated><author><name>40971134</name></author><id>tag:None,2024-05-09:./2024-Spring-40971134-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;W12 實習操作&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W12 實習操作&lt;/p&gt;
+
+
+&lt;h1&gt;W12&lt;/h1&gt;
+&lt;h2&gt;任務一 零件繪製的 NXOpen Python 程式&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://1drv.ms/u/c/9683d19a89b0dec7/EQ3uut8aASNBiLgEmOqMlGcBSDsAfEdxBvt5oV0dq4nIfg?e=Zttayc"&gt;程式碼&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/S59-H1dsvsA?si=hFiawOA22V2-lCCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;心得:第一次使用NX的Journal錄製，照著老師教學的方式去錄製遇到了一些問題，我是在新增零件檔後才開始錄製，所以要使用我的程式碼去畫出零組件的話，必須先新增一個空白的零件檔才能使用。其他組員也有遇到一樣的問題，但是他們在新增一個空白的零件檔後還是無法使用。&lt;/p&gt;
+&lt;p&gt;G6組合檔&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/C8r7BLFx0o4?si=laqAxjctSFW4rMbO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;h2&gt;任務二 將分組倉儲設為評分網站子模組&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/mdecd2024/2bstud-2bsite"&gt;2b 評分倉儲&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;任務三 跨網路操控足球機器人進行競技&lt;/h2&gt;
+&lt;p&gt;照著老師的&lt;a href="https://mde.tw/cd2024/blog/2024-cd-w12-practice.html"&gt;執行步驟&lt;/a&gt;一步一步做就能順利地操作足球機器人&lt;/p&gt;</content><category term="w12"></category><category term="網誌編寫"></category></entry><entry><title>W12</title><link href="./2024-Spring-40971220-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-09T11:00:00+08:00</published><updated>2024-06-14T03:30:13+08:00</updated><author><name>40971220</name></author><id>tag:None,2024-05-09:./2024-Spring-40971220-w12-blog-tutorial.html</id><content type="html">&lt;p&gt;將鋼球平衡台零組件使用NX錄製python程式碼
+&lt;a href="https://1drv.ms/u/s!Agzcw-HLEDelhC75dnccXM5M1AQy?e=xjI5wW"&gt;零組件python程式碼&lt;/a&gt;
+W12任務一心得:使用NX進行python程式錄製的時候常常遇到錄完後打不開的問題，反覆嘗試幾次之後就可以了。&lt;/p&gt;
+</content><category term="w12"></category><category term="上課心得"></category></entry></feed>
